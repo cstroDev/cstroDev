@@ -55,8 +55,7 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 API Biblioteca
-🔹 API Casamento
+🔹 Sistema-financeiro
 
 ---
 
